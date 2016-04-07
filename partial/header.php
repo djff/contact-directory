@@ -46,7 +46,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Ultimate Contact Directory</a>
+                <a class="navbar-brand" href="index.php">Ultimate ContactDir</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->

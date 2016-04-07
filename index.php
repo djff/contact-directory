@@ -3,7 +3,7 @@
   include "partial/header.php"; 
   require_once "processor/pro_auth.php";
 ?>
-<title>Ultimate Contact Directory</title>
+<title>Ultimate ContactDir</title>
 
 <div id="top-carousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
@@ -18,7 +18,7 @@
         <div class="item active">
             <img src="img/contact2.jpg" alt="carousel image">
             <div class="carousel-caption">
-                <h1 style="color: #000;"> Setup Contacts</h1>
+                <h1 style="color: #000;"> Store Your Contacts</h1>
                 <?php echo $status; ?>
                 <?php if(!isset($_SESSION['email']))  { ?>
                 <div class="container-fluid login-banner-div">
